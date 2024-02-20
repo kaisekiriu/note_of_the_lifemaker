@@ -3,14 +3,17 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    //pageTitle: "🪴 Quartz 4.0",
+     pageTitle: "Note of the Lifemaker",
+     enableSPA: true,
+     enablePopovers: true,
+     analytics: {
+       provider: "plausible",
+     },
+     // locale: "en-US",
+     locale: "ja-JP",
+     // baseUrl: "quartz.jzhao.xyz",
+     baseUrl: "kaisekiriu.github.io/note_of_the_lifemaker",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

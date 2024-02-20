@@ -1,5 +1,7 @@
-[[Markdown]]で書かれたファイルを公開するための静的サイトジェネレーター
-[[Obsidian]]との互換性がウリ
+- [[Markdown]]で書かれたファイルを公開するための静的サイトジェネレーター
+- [[Obsidian]]との互換性がウリ
+
+---
 
 - このサイトを立ち上げるときにに参考にしたサイト
 	- [Welcome to Quartz 4](https://quartz.jzhao.xyz)

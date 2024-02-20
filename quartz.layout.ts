@@ -44,6 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     	    removeTags: [], // what tags to remove from the graph
     	    showTags: true, // whether to show tags in the graph
     	  }
+    	}
     ),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 造物主の置手紙
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+

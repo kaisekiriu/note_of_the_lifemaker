@@ -29,13 +29,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(
-    	{
-    	  localGraph: {
-    	    depth: 3, // how many hops of notes to display
-    	  }
-    	}
-    ),
+    Component.Graph({
+   	  localGraph: {
+   	    depth: 3, // how many hops of notes to display
+   	  },
+   	  globalGraph: {}
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

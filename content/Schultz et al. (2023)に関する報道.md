@@ -14,7 +14,6 @@
     - 動物の共通祖先は有櫛動物のような姿をしていた
 - この点については論文中で明確に述べられている
     > Sponge-sister and ctenophore-sister hypotheses are sometimes erroneously interpreted as suggesting that the most recent common ancestor of animals was sponge-like or ctenophore-like. We must be mindful, however, that the living representatives of sponges, ctenophores, bilaterians and placozoans may be poor surrogates for the earliest members of each stem-lineage, as the crown group of each clade arose hundreds of millions of years after their divergence from each other, let alone from the common metazoan ancestor.
-    > 
     > ［拙訳］カイメン姉妹群仮説や有櫛動物姉妹群仮説はときおり、動物の最新共通祖先はカイメンや有櫛動物に似ていたのだ、と主張しているものと誤って解釈されることがある。しかし心に留めておかなければならないのは、カイメン、有櫛動物、左右相称動物、平板動物のうち現生している代表というものが、それぞれのステム系統を代替するものとしては貧弱なことである。なぜならそれぞれのクレードのクラウングループは、後生動物の共通祖先からはいうまでもなく、分岐した後に互いに〔各々のステムグループから〕数億年もの歳月をかけて生じたものだからである。
 - また論文中では明記されていないものの、次のような表記も避けるべきである
     - 動物の中で最初に分岐したのは有櫛動物である

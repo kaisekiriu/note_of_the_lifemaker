@@ -1,2 +1,6 @@
 [[index]]
 [[test]]
+
+[[index]]
+
+[[test]]

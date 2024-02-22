@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
    	    depth: 3, // how many hops of notes to display
    	  },
    	  globalGraph: {
-   	  	depth: -1, // how many hops of notes to display
+   	  	depth: 3, // how many hops of notes to display
    	  }
     }),
     Component.DesktopOnly(Component.TableOfContents()),

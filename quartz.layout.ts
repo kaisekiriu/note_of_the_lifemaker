@@ -33,7 +33,9 @@ export const defaultContentPageLayout: PageLayout = {
    	  localGraph: {
    	    depth: 3, // how many hops of notes to display
    	  },
-   	  globalGraph: {}
+   	  globalGraph: {
+   	  	depth: -1, // how many hops of notes to display
+   	  }
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

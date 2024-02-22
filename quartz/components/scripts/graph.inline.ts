@@ -60,9 +60,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      // if (validLinks.has(dest)) { // comment out
         links.push({ source: source, target: dest })
-      }
+      // }
     }
 
     if (showTags) {

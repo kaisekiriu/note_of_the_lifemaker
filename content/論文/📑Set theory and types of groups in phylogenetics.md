@@ -1,4 +1,8 @@
-
+---
+tags: 
+aliases:
+title: Set theory and types of groups in phylogenetics
+---
 
 - **プレプリント**
 - 著者：Yegor Shɨshkin-Skarð

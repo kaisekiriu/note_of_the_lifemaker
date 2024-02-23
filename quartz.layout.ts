@@ -32,9 +32,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
    	  localGraph: {
    	    depth: 3, // how many hops of notes to display
+   	    removeTags: ["twitter_log"],
    	  },
    	  globalGraph: {
    	  	depth: 3, // how many hops of notes to display
+   	  	removeTags: ["twitter_log"],
    	  }
     }),
     Component.DesktopOnly(Component.TableOfContents()),

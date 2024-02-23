@@ -1,4 +1,5 @@
 
+
 - **プレプリント**
 - 著者：Yegor Shɨshkin-Skarð
 - https://doi.org/10.32942/osf.io/nmqbs

@@ -1,7 +1,6 @@
 ---
-tags: 
-aliases:
-title: Set theory and types of groups in phylogenetics
+tags: 論文
+aliases: Shɨshkin-Skarð (preprint)
 ---
 
 - **プレプリント**

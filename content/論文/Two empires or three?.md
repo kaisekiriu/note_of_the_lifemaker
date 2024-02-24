@@ -1,7 +1,6 @@
 ---
-tags: 
+tags: 論文
 aliases: Mayr (1998)
-title: Two empires or three?
 ---
 
 - Two empires or three?

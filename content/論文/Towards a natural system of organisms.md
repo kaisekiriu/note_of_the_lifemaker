@@ -1,7 +1,6 @@
 ---
 tags: 論文
 aliases: Woese et al. (1990)
-title: Woese et al. (1990)
 ---
 
 - 題名：Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya

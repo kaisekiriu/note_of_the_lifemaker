@@ -29,8 +29,9 @@
     - タイトル：生命の樹の起源をめぐる数十年来の謎がついに解明か。姉妹群の子孫が特定される
 
 ### 微妙
+
 - Scienceの[news](https://doi.org/10.1126/science.adi7853)
-    - タイトル：Comb jelly ancestor may have been first animal to branch from tree of life（クシクラゲの祖先は生命樹から分岐した最初の動物かもしれない）
+    - タイトル：Comb jelly ancestor may have been first animal to branch from tree of life（クシクラゲの祖先は生命の樹から分岐した最初の動物かもしれない）
 
 ### 問題があると思われるもの
 - [カリフォルニア大学バークレー校](https://news.berkeley.edu/2023/05/17/what-did-the-earliest-animals-look-like/)

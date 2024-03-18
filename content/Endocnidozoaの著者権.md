@@ -8,7 +8,7 @@
 - 電子メーリングリストは（2012年9月改正を鑑みても）条9の「公表したことにならないもの」である
 - 先取権の原理に関する条23は上記の一部の条項に含まれない
 
-## Siddall et al. (1995)
+## [[The demise of a phylum of protists|Siddall et al. (1995)]]
 
  The Demise of a Phylum of Protists: Phylogeny of Myxozoa and Other Parasitic Cnidaria
  
@@ -29,7 +29,7 @@ Endocnidozoa, new cnidarian class? - Peter Schuchert
 - メーリングリストの中でEndocnidozoaという名称を提唱した
 - メーリングリストという媒体は国際動物命名規約 第4版における「公表の要件」を満たさない
 
-## Meeûs & Renaud (2002)
+## [[Parasites within the new phylogeny of eukaryotes|Meeûs & Renaud (2002)]]
 
 Parasites within the new phylogeny of eukaryotes
 

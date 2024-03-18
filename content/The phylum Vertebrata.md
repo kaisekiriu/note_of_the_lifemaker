@@ -1,6 +1,6 @@
 ---
 title: 
-  - The phylum Vertebrata: a case for zoological recognition
+  - The phylum Vertebrata\: a case for zoological recognition
 aliases: Irie et al. (2018)
 tags: 論文
 ---

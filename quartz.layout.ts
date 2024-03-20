@@ -30,14 +30,16 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph({
-   	  localGraph: {
-   	    depth: 3, // how many hops of notes to display
-   	    removeTags: ["twitter_log"],
-   	  },
-   	  globalGraph: {
-   	  	depth: 3, // how many hops of notes to display
-   	  	removeTags: ["twitter_log"],
-   	  }
+      localGraph: {
+        depth: 3, // how many hops of notes to display
+        linkDistance: 30, // how long should the links be by default?
+        removeTags: ["twitter_log"],
+      },
+      globalGraph: {
+        depth: 3, // how many hops of notes to display
+        linkDistance: 30, // how long should the links be by default?
+        removeTags: ["twitter_log"],
+      },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

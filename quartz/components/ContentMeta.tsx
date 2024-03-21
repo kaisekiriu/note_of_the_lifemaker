@@ -34,7 +34,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>作成日：{formatDate(fileData.dates.created, cfg.locale)}<br /></span>)
       }
       if (fileData.dates?.modified) {
-        segments.push(<span>最終更新日：{formatDate(fileData.dates.modified, cfg.locale)}</span>)
+        segments.push(<span>更新日：{formatDate(fileData.dates.modified, cfg.locale)}</span>)
       }
 
       // Display reading time if enabled

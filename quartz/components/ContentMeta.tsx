@@ -31,22 +31,22 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       //   segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       // }
       if (fileData.dates?.created) {
-        segments.push( <span> 作成日： {formatDate(fileData.dates.created, cfg.locale)} </span> )
+        segments.push(<span>作成日：{formatDate(fileData.dates.created, cfg.locale)}<br /></span>)
       }
       if (fileData.dates?.modified) {
-        segments.push( <span> 更新日： {formatDate(fileData.dates.modified, cfg.locale)} </span> )
+        segments.push(<span>更新日：{formatDate(fileData.dates.modified, cfg.locale)}</span>)
       }
 
       // Display reading time if enabled
-      if (options.showReadingTime) {
-        // const { minutes, words: _words } = readingTime(text)
-        // const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
-        //   minutes: Math.ceil(minutes),
-        // })
-        const { text: timeTaken, words: _words } = readingTime(text)
-        // segments.push(displayedTime)
-        segments.push(<span>{timeTaken}</span>)
-      }
+      // if (options.showReadingTime) {
+      //   // const { minutes, words: _words } = readingTime(text)
+      //   // const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
+      //   //   minutes: Math.ceil(minutes),
+      //   // })
+      //   const { text: timeTaken, words: _words } = readingTime(text)
+      //   // segments.push(displayedTime)
+      //   segments.push(<span>{timeTaken}</span>)
+      // }
 
       // return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
       return (

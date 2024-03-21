@@ -2,6 +2,8 @@
 title: 
 aliases: Kathryn et al. (2020)
 tags: 論文
+created: 2024-03-15T00:59
+updated: 2024-03-15T00:59
 ---
 
 | 論文情報 |                                                                          |

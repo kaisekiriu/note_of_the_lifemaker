@@ -1,3 +1,7 @@
+---
+created: 2024-03-01T11:50
+updated: 2024-03-01T11:50
+---
 
 Branislav Petronievics (1921)
 https://books.google.co.jp/books?id=40Q9AQAAIAAJ&pg=PA140

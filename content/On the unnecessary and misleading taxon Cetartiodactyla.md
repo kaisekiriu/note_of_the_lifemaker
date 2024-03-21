@@ -2,6 +2,8 @@
 title: On the unnecessary and misleading taxon "Cetartiodactyla"
 aliases: Prothero et al. (2022)
 tags: 論文
+created: 2024-03-14T21:49
+updated: 2024-03-14T21:49
 ---
 
 |     |                                                                                                                                                                                                                                                                                                     |

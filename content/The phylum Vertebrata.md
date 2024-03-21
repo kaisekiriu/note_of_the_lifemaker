@@ -1,8 +1,10 @@
 ---
-title: 
+title:
   - The phylum Vertebrata—A case for zoological recognition
 aliases: Irie et al. (2018)
 tags: 論文
+created: 2024-03-18T21:52
+updated: 2024-03-18T21:52
 ---
 
 | 論文情報 |                                                                           |

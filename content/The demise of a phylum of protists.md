@@ -2,6 +2,8 @@
 title: 
 aliases: Siddall et al. (1995)
 tags: 論文
+created: 2024-03-14T23:55
+updated: 2024-03-14T23:55
 ---
 
 | 論文情報 |                                                                                               |

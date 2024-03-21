@@ -2,6 +2,8 @@
 title: 
 aliases: Montgelard et al. (1997)
 tags: 論文
+created: 2024-03-14T22:04
+updated: 2024-03-14T22:04
 ---
 
 | 論文情報 |                                                                                                                                              |

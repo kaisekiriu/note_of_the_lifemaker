@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     // baseUrl: "quartz.jzhao.xyz",
     baseUrl: "kaisekiriu.github.io/note_of_the_lifemaker",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       cdnCaching: true,
       typography: {

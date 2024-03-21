@@ -48,7 +48,16 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{timeTaken}</span>)
       }
 
-      return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
+      // return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
+      return (
+        <p class={classNames(displayClass, "content-meta")}>
+          {segments.map((meta, idx) => (
+            <>
+              {meta}
+            </>
+          ))}
+        </p>
+      )
     } else {
       return null
     }

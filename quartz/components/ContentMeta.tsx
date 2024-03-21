@@ -38,15 +38,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       // Display reading time if enabled
-      // if (options.showReadingTime) {
-      //   // const { minutes, words: _words } = readingTime(text)
-      //   // const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
-      //   //   minutes: Math.ceil(minutes),
-      //   // })
-      //   const { text: timeTaken, words: _words } = readingTime(text)
-      //   // segments.push(displayedTime)
-      //   segments.push(<span>{timeTaken}</span>)
-      // }
+      if (options.showReadingTime) {
+        // const { minutes, words: _words } = readingTime(text)
+        // const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
+        //   minutes: Math.ceil(minutes),
+        // })
+        const { text: timeTaken, words: _words } = readingTime(text)
+        // segments.push(displayedTime)
+        segments.push(<span>{timeTaken}</span>)
+      }
 
       // return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
       return (

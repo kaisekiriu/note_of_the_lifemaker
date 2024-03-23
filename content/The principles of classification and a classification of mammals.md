@@ -4,6 +4,7 @@ aliases: Simpson (1945)
 tags: 論文
 created: 2024-03-14T22:36
 updated: 2024-03-14T22:36
+modified: 2024-03-21T21:35
 ---
 
 | 論文情報 |                                                                  |

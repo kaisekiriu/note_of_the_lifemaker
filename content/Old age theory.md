@@ -3,6 +3,7 @@ tags:
 aliases: 老齢説, 老齢化説
 created: 2024-03-01T11:42
 updated: 2024-03-01T11:42
+modified: 2024-03-21T21:35
 ---
 
 - 1900年代にAlpheus Hyattが唱えた説

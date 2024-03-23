@@ -1,6 +1,7 @@
 ---
 created: 2024-03-04T19:41
 updated: 2024-03-04T19:41
+modified: 2024-03-21T21:35
 ---
 
 [Amazon | Hunting Dinosaurs | Psihoyos, Louie | Dinosaurs|200](https://www.amazon.co.jp/exec/obidos/ASIN/0679431241)

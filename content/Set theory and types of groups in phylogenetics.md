@@ -3,8 +3,7 @@ title:
 aliases: Shɨshkin-Skarð (preprint)
 tags: 論文
 created: 2024-03-18T16:07
-updated: 2024-03-18T16:07
-modified: 2024-03-21T21:35
+modified: 2024-03-23T15:46
 ---
 
 | 論文情報 |                                                 |
